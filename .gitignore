@@ -1,0 +1,5 @@
+#ignore
+fonts/*
+
+#allow
+!fonts/Montserrat-VariableFont_wght.ttf
