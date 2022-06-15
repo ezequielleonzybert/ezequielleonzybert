@@ -1,4 +1,4 @@
-@font-face {
+/*@font-face {
     font-family: 'Montserrat';
     src: url('https://github.com/ezequielleonzybert/ezequielleonzybert/blob/master/fonts/Montserrat-VariableFont_wght.ttf?raw=true') format('truetype');
     font-weight: normal;
@@ -7,7 +7,8 @@
 
 #newfont{
     font-family: 'Montserrat';
-}
+}*/
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
 
 * {
     margin: 0;
