@@ -17,6 +17,8 @@
 }
 
 body{
+    width: 100vw;
+    height: 100vh;
     font-family: 'Montserrat', 'sans-serif';
 }
 
@@ -63,7 +65,19 @@ body{
 
 .menu a:hover{
     background-color: aqua;
-    color:#191c32;
+    color:#101010;
     transition: ease-in .3s;
 
+}
+
+main {
+    background-color: #101010;
+}
+
+.canvas{
+    display: flex;
+    justify-content: center;
+    background-color: white;
+    width: 75%;
+    height: 75%
 }
